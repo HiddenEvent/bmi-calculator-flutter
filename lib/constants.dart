@@ -15,3 +15,23 @@ const kNumberTextStyle = TextStyle(
 );
 const kSliderMin =  120.0;
 const kSliderMax =  220.0;
+const kLargeButtonTextStyle = TextStyle(
+  fontSize: 25.0,
+  fontWeight: FontWeight.bold,
+);
+const kTitleTextStyle = TextStyle(
+  fontSize: 40.0,
+  fontWeight: FontWeight.bold,
+);
+const kResultTextStyle = TextStyle(
+  color: Color(0xff24D876),
+  fontSize: 22.0,
+  fontWeight: FontWeight.bold,
+);
+const kBMITextStyle = TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold
+);
+const kBodyTexStyle = TextStyle(
+  fontSize: 22.0,
+);
